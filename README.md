@@ -21,6 +21,8 @@ Built with [SPYDER IDE](https://www.spyder-ide.org/).
   
   e.g. 2-17 means the location of the piece is in the 2nd row, 17th column.
   
+  <img src="https://github.com/ayoungkim-tech/jigsaw_puzzle_solver/blob/main/dataset/location_example.png" width="350">
+  
 * Methodology: 
 * 
 # How to Execute Demo
