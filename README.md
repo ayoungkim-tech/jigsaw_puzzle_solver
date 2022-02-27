@@ -23,8 +23,16 @@ Built with [SPYDER IDE](https://www.spyder-ide.org/).
   
   <img src="https://github.com/ayoungkim-tech/jigsaw_puzzle_solver/blob/main/dataset/location_example.png" width="350">
   
+  The shape notation of puzzle data is 
+   * in: 0
+   * out: 1
+   * border: 2.
+  
+  <img src="https://github.com/ayoungkim-tech/jigsaw_puzzle_solver/blob/main/dataset/shape_example1.jpg" width="350"> 
+  <img src="https://github.com/ayoungkim-tech/jigsaw_puzzle_solver/blob/main/dataset/shape_example2.jpg" width="350">
+  
 * Methodology: 
-* 
+
 # How to Execute Demo
 
 # Screenshots
